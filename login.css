@@ -118,8 +118,8 @@ textarea{
 		grid-template-columns: 1fr;
 	}
 	.right{
-		height: 200px;
-		width: 100%;
+		height: 240px;
+		width: 300px;
 	}
 }
 
